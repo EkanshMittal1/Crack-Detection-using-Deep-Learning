@@ -35,3 +35,6 @@ A computer vision project that detects surface cracks in images using Transfer L
 ## Output
 - Trained model: `crack_detector_mobilenet.h5`
 - Lightweight TFLite models ready for mobile/embedded deployment
+
+## Dataset
+Download the dataset from [here](https://drive.google.com/drive/folders/1fbRDuzE2B6x8sFGIcqi8UGJea5JguXXh?usp=sharing) and place the contents inside a `Dataset/` folder in the root directory.
